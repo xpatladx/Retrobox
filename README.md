@@ -1,4 +1,5 @@
 # Retrobox
+<img width="1024" height="264" alt="Retrobox-9-2-2026" src="https://github.com/user-attachments/assets/1abb4e5c-df56-4b8e-9472-065128957cc5" />
 
 > [!NOTE]
 > Retrobox IS NOT out yet, it is set to come out very soon!
